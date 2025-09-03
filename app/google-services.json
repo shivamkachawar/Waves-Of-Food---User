@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "245317908158",
+    "firebase_url": "https://waves-of-food-d5043-default-rtdb.firebaseio.com",
+    "project_id": "waves-of-food-d5043",
+    "storage_bucket": "waves-of-food-d5043.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245317908158:android:8c38349e00badf84f910ef",
+        "android_client_info": {
+          "package_name": "com.example.adminwavesoffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245317908158-3g07b7e7tsedqg8rk0o2vfssd627f57r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminwavesoffood",
+            "certificate_hash": "ab066cf34ecebe860c6912ad09e185028f5c7faf"
+          }
+        },
+        {
+          "client_id": "245317908158-6q324ri9i835m2efg6hj9sbvqcie4jcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_sWJ9MFAaT1tskL7Wi3FQd6LUXym7wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245317908158-6q324ri9i835m2efg6hj9sbvqcie4jcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245317908158:android:ef7e4cbcd823215ef910ef",
+        "android_client_info": {
+          "package_name": "com.example.wavesoffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245317908158-6q324ri9i835m2efg6hj9sbvqcie4jcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_sWJ9MFAaT1tskL7Wi3FQd6LUXym7wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245317908158-6q324ri9i835m2efg6hj9sbvqcie4jcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

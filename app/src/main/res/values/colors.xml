@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#1FC57A</color>
+    <color name="logoutColor">#E53935</color>
+
+    <color name="md_theme_light_primary">#FFFFFF</color>
+    <color name="md_theme_light_onPrimary">#000000</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#000000</color>
+
+    <color name="md_theme_dark_primary">#000000</color>
+    <color name="md_theme_dark_onPrimary">#FFFFFF</color>
+    <color name="md_theme_dark_surface">#000000</color>
+    <color name="md_theme_dark_onSurface">#FFFFFF</color>
+
+
+</resources>

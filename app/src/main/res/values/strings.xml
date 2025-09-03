@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Waves Of Food</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">245317908158-6q324ri9i835m2efg6hj9sbvqcie4jcd.apps.googleusercontent.com</string>
+</resources>
